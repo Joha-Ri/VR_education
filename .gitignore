@@ -1,4 +1,5 @@
 .venv/
+fp_venv/
 pyproject.toml
 uv.lock
 notebooks/.ipynb_checkpoints/
