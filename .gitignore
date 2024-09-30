@@ -6,4 +6,5 @@ data/clean/.gitkeep
 pyproject.toml
 uv.lock
 notebooks/.ipynb_checkpoints/
+notebooks/.gitkeep
 src/
