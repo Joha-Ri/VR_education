@@ -1,5 +1,8 @@
 .venv/
 fp_venv/
+data/.gitkeep
+data/raw/.gitkeep
+data/clean/.gitkeep
 pyproject.toml
 uv.lock
 notebooks/.ipynb_checkpoints/
